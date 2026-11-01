@@ -2,7 +2,7 @@
 
 Dashboard 3 halaman yang menganalisis 1 juta+ transaksi toko online di UK untuk menjawab: **produk dan pelanggan mana yang menopang revenue, dan siapa yang mulai pergi?**
 
-![Executive Overview](docs/Executive Overview.jpg)
+![Executive Overview](docs/ExecutiveOverview.jpg)
 
 > Tools: Python (pandas) untuk data cleaning, Power BI + DAX untuk modeling dan visualisasi.
 > Dataset: Online Retail II (UCI / Kaggle). Mata uang: pound sterling (£).
