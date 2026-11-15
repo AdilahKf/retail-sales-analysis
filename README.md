@@ -101,7 +101,6 @@ erDiagram
 ├── README.md
 ├── dashboard/        file .pbix
 ├── scripts/          clean_online_retail.py
-├── data_quality/     data_quality_log.csv, data_quality_report.md
 └── docs/             screenshot halaman 1-3 dan dashboard.pdf
 ```
 
